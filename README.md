@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Web&App Developer
 ----------------------------
 
-\> Experienced in developing POS software, slot games, and sports betting platforms using React, Next.js, and Flutter. > Proficient in Adobe Photoshop, Illustrator, Premiere pro. skilled in creating graphics, designing logos, and editing videos.
+\> Experienced in developing POS software, slot games, and sports betting platforms using React, Next.js, and Flutter. 
+\> Proficient in Adobe Photoshop, Illustrator, Premiere pro. skilled in creating graphics, designing logos, and editing videos.
 
 * 🌍  I'm based in saravane,salavan,Lao
 * ✉️  You can contact me at [soulixai.vls@gmail.com](mailto:soulixai.vls@gmail.com)
