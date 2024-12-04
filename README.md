@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Web&App Developer
 ----------------------------
 
-\> Experienced in developing POS software, slot games, and sports betting platforms using React, Next.js, and Flutter. 
+\> Experienced in developing POS software, slot games, and sports betting platforms using React, Next.js, and Flutter. </br>
 \> Proficient in Adobe Photoshop, Illustrator, Premiere pro. skilled in creating graphics, designing logos, and editing videos.
 
 * 🌍  I'm based in saravane,salavan,Lao
